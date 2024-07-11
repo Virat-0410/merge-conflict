@@ -1,7 +1,8 @@
 original
 <<<<<<< HEAD
 security
-=======
 f1
+=======
+f2
+>>>>>>> f2
 
->>>>>>> 0f94c04 (f1 change)
